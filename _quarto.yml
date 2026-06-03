@@ -5,11 +5,11 @@ website:
   title: "Mi Blog de Estadística"
   navbar:
     right:
-      - href: about.qmd
+      - href: about.html
         text: Sobre mí
-      - href: index.qmd
+      - href: index.html
         text: Inicio 
-      - href: cv.qmd
+      - href: cv.html
         text: CV
 format:
   html:
