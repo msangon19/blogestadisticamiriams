@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "CV.html#perfil-profesional",
+    "href": "CV.html#perfil-profesional",
+    "title": "Mi Blog de Estadística",
+    "section": "👤 Perfil Profesional",
+    "text": "👤 Perfil Profesional\nAmante de la gestión y la administración de empresas, especializada en el área contable con conocimientos en el tratamiento, análisis y visualización de datos (SAP avanzado, SAGE avanzado, Power Query, R Studio, Power BI). Sólida experiencia en la aplicación de distintos marcos contables internacionales (IFRS). Capacidad de trabajo en ambientes multiculturales y en equipos de más de 15 personas, con una actitud proactiva hacia el crecimiento profesional y la mejora de procesos."
+  },
+  {
+    "objectID": "CV.html#experiencia-profesional",
+    "href": "CV.html#experiencia-profesional",
+    "title": "Mi Blog de Estadística",
+    "section": "💼 Experiencia Profesional",
+    "text": "💼 Experiencia Profesional\n\nEncargada de Facturación | Gestoop, S. Coop. And.\nGranada (Septiembre 2025 - Actualidad)\n\nEmisión de facturación (clientes y socios).\nGestión integral de proveedores.\nContabilidad y Fiscalidad: Cierres anuales, conciliaciones mensuales y notas de gasto.\nGestión Laboral: Altas y bajas en Seguridad Social y cálculo de parcialidades.\nLiderazgo y gestión de equipos.\nAutomatización y armonización de procesos.\nGestión y coordinación de procesos de auditoría.\nTareas administrativas adicionales (gestión de abogados, entre otros).\n\n\n\nEncargada AP (Cuentas por Pagar) | Hampton by Hilton e IHG - Finance Cluster\nMálaga (Junio 2024 - Junio 2025)\n\nParticipación activa en la apertura de dos hoteles (marcas Hilton e IHG).\nImplementación de sistemas contables.\nGestión integral de proveedores y pagos.\nTesorería: Arqueos, efectivo en recepción y cuadre de caja.\n\n\n\nContable Equipo PA | Volvo Cars\nMadrid (Septiembre 2023 - Marzo 2024)\n\nGestión contable: Accruals, prepagos, netting, cierres mensuales e intercompany.\nControl: Reconciliación y limpieza de cuentas contables.\nAutomatización y armonización de procesos.\n\n\n\nAdjunta Junior en Administración de Hoteles | Catalonia Hotels & Resorts\nMéxico (Abril 2021 - Abril 2023)\n\nAdministración: Gestión de principios, valores y procesos.\nGestión Financiera: Presupuestos, reclasificación de activos y cálculo de ratios de riesgo.\nAnálisis de stock, materiales de lento movimiento y revisión del cardex de clientes.\nIngresos: Cálculo de comisiones, revisión diaria de ingresos, gestión de stock y cuentas a cobrar/pagar.\nContabilidad: Ciclo completo de pago, emisión de cheques, reembolsos y conciliación de comisiones bancarias.\n\n\n\nContable Administrativa | Catalonia Hotels & Resorts\nBarcelona (2019 - 2020)\n\nResolución de incidencias documentales entre hoteles.\nRevisión y conciliación de ingresos.\nContabilidad de tres sociedades (15 hoteles): Presentación de impuestos (modelos 111, 123 y 322).\n\n\n\nContable Junior | Volvo Ocean Race\nAlicante (2017 - 2018)\n\nCiclo completo de pago a proveedores y resolución de dudas.\nRevisión de gastos de empleados y cálculo de KPIs.\n\n\n\nAsistente Personal y Au Pair\nBury St. Edmund, Suffolk, England (2016 - 2017)"
+  },
+  {
+    "objectID": "CV.html#educación",
+    "href": "CV.html#educación",
+    "title": "Mi Blog de Estadística",
+    "section": "🎓 Educación",
+    "text": "🎓 Educación\n\nMáster en Técnicas Cuantitativas y Gestión Empresarial (En curso).\nDoble Licenciatura en ADE y Derecho, Universidad de Granada (2009 - 2016)."
+  },
+  {
+    "objectID": "CV.html#habilidades-técnicas-y-formación-complementaria",
+    "href": "CV.html#habilidades-técnicas-y-formación-complementaria",
+    "title": "Mi Blog de Estadística",
+    "section": "🛠️ Habilidades Técnicas y Formación Complementaria",
+    "text": "🛠️ Habilidades Técnicas y Formación Complementaria\n\nAnálisis de Datos: Excel avanzado, Power Query, Power Pivot, Power BI, R Studio.\nIA: Curso especializado en Inteligencia Artificial.\nIdiomas: Experiencia laboral en entornos internacionales (Inglés).\nCompetencias: Trabajo bajo presión, resolución de problemas, coordinación de equipos multiculturales."
+  },
+  {
+    "objectID": "CV.html#contacto",
+    "href": "CV.html#contacto",
+    "title": "Mi Blog de Estadística",
+    "section": "📞 Contacto",
+    "text": "📞 Contacto\n\nTeléfono: +34 654 277 475\nEmail: miriamsangon@hotmail.com"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Blog estadística Míriam",
+    "section": "",
+    "text": "Estadística Descriptiva con R\n\n\n\n\n\n\n\n\nJun 3, 2026\n\n\nMíriam Sánchez González\n\n\n\n\n\n\n\n\n\n\n\n\nInferencia estadística\n\n\n\n\n\n\n\n\nJun 2, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nRegresión lineal\n\n\n\n\n\n\n\n\nJun 1, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/inferencia-estadística/index.html",
+    "href": "posts/inferencia-estadística/index.html",
+    "title": "Inferencia estadística",
+    "section": "",
+    "text": "Imagínate que vas a cocinar una olla gigante de sopa. Quieres saber si está bien de sal, pero no te vas a comer la olla entera (eso sería tu población). Así que coges una cuchara, pruebas un poquito (la muestra) y, basándote en eso, decides: “le falta sal” o “está perfecta”.\nEso es la Inferencia Estadística: intentar adivinar cómo está toda la olla (la población) probando solo una cucharadita (la muestra) sin morir en el intento."
+  },
+  {
+    "objectID": "posts/inferencia-estadística/index.html#qué-es-esto-de-la-inferencia",
+    "href": "posts/inferencia-estadística/index.html#qué-es-esto-de-la-inferencia",
+    "title": "Inferencia estadística",
+    "section": "",
+    "text": "Imagínate que vas a cocinar una olla gigante de sopa. Quieres saber si está bien de sal, pero no te vas a comer la olla entera (eso sería tu población). Así que coges una cuchara, pruebas un poquito (la muestra) y, basándote en eso, decides: “le falta sal” o “está perfecta”.\nEso es la Inferencia Estadística: intentar adivinar cómo está toda la olla (la población) probando solo una cucharadita (la muestra) sin morir en el intento."
+  },
+  {
+    "objectID": "posts/inferencia-estadística/index.html#conceptos-básicos",
+    "href": "posts/inferencia-estadística/index.html#conceptos-básicos",
+    "title": "Inferencia estadística",
+    "section": "📝 Conceptos Básicos",
+    "text": "📝 Conceptos Básicos\n\nEstimación Puntual: Intentar adivinar el parámetro poblacional \\(\\theta\\) con un solo número (estadístico).\nEstimador (\\(\\hat{\\theta}\\)): La herramienta matemática que usamos para calcular esa aproximación.\nMáxima Verosimilitud: Elegir el parámetro que hace que los datos que hemos observado sean lo más probables posible.\nIntervalo de Confianza: Un rango \\([a, b]\\) donde confiamos que vive el valor real, con una probabilidad de fallo controlada por \\(\\alpha\\).\nContraste de Hipótesis: El “juicio” donde ponemos a prueba una afirmación \\(H_0\\) frente a una alternativa \\(H_1\\).\nDistribución Normal: El pilar de la inferencia. Si estimamos la media \\(\\mu\\), usamos la media muestral \\(\\bar{X}\\), que sigue: \\(\\bar{X} \\sim N(\\mu, \\frac{\\sigma^2}{n})\\).\nErrores de contraste:\n\nError Tipo I (\\(\\alpha\\)): Rechazar \\(H_0\\) cuando es verdadera (falso positivo).\nError Tipo II (\\(\\beta\\)): No rechazar \\(H_0\\) cuando es falsa (falso negativo)."
+  },
+  {
+    "objectID": "posts/inferencia-estadística/index.html#análisis-práctico-dataset-trees",
+    "href": "posts/inferencia-estadística/index.html#análisis-práctico-dataset-trees",
+    "title": "Inferencia estadística",
+    "section": "🌳 Análisis práctico: Dataset trees",
+    "text": "🌳 Análisis práctico: Dataset trees\nSiguiendo con nuestros amigos los árboles, vamos a aplicar esto. Queremos estimar la altura media (Height) de todos los cerezos negros.\n\n# Cargamos los datos\ndata(trees)\n\n# Calculamos la media muestral\nmedia_muestral &lt;- mean(trees$Height)\n\n# Calculamos el Intervalo de Confianza al 95%\ntest_res &lt;- t.test(trees$Height, conf.level = 0.95)\n\n# Mostramos los resultados\ncat(\"Estimación puntual (Media):\", round(media_muestral, 2), \"pies.\\n\")\n\nEstimación puntual (Media): 76 pies.\n\ncat(\"Intervalo de confianza al 95%:\", \n    round(test_res$conf.int[1], 2), \"a\", \n    round(test_res$conf.int[2], 2), \"pies.\")\n\nIntervalo de confianza al 95%: 73.66 a 78.34 pies.\n\n\nPara visualizar el histograma de la altura de los árboles objeto de estudio y representar que la media es de 76 pies usamos el siguiente código:\n\ndata(trees)\n\n# 1. Visualización de la distribución de la media\nhist(trees$Height, main=\"Distribución de Alturas\", xlab=\"Pies\", col=\"skyblue\", border=\"white\")\nabline(v=mean(trees$Height), col=\"red\", lwd=3) # Nuestra media muestral\n\n\n\n\n\n\n\n\nContraste de hipótesis:\nDefinimos nuestro contraste para verificar si la altura media poblacional (\\(\\mu\\)) es igual a 76 pies:\n\n\\(H_0\\): $\\(\\mu = 76\\)\n\\(H_1\\): \\(\\mu \\neq 76\\)\n\n\ntest_h &lt;- t.test(trees$Height, mu = 76)\n\n\n¿Qué nos dice esto?\n\nSobre la distribución: El histograma nos muestra una distribución centrada cerca de los 76 pies. Nuestra media muestral (línea roja) cae muy cerca de los 76 pies que hipotetizamos.\nSobre el contraste: El \\(p\\)-valor 1 es mayor que 0.05. Interpretación: No rechazamos la Hipótesis Nula (\\(H_0: \\mu = 76\\)). Los datos son compatibles con la idea de que la altura media sea de 76 pies.\n\n\n\nInterpretación de resultados y Errores\n\n¿Cómo entender los errores aquí?\n\nSi nuestro \\(p\\)-valor es bajo (\\(p&lt; 0.05\\)), rechazamos \\(H_0\\). Si por azar la media fuera 76 y aún así la rechazamos, habríamos cometido un Error Tipo I.\nSi la media real fuera, por ejemplo, 80 pies y nuestro test no logra rechazar \\(H_0=76\\), habríamos caído en un Error Tipo II (no detectar que el árbol es realmente más alto).\nSobre los errores: - Como no rechazamos la hipótesis, no podemos cometer un Error Tipo I (porque no estamos rechazando \\(H_0\\)).\n\nSin embargo, existe la posibilidad de estar cometiendo un Error Tipo II: es decir, que la media verdadera sea, por ejemplo, 75 o 77, y nuestro test simplemente no ha tenido “potencia” suficiente para detectar esa pequeña diferencia con esta muestra de 31 árboles.\n\n\n\n¡Ya estamos haciendo inferencia!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "¡Hola!\nBienvenid@s a mi blog. Soy Míriam y sí… ¡lo confieso! Soy una friki de la estadística (alguien tenía que serlo).\nEste blog nace como parte de mi máster, pero mi objetivo es que no se quede en un simple trabajo de clase. En la barra de navegación podéis cotillear mi trayectoria en la página de CV y conocer más sobre mi background. Además, en la sección de posts os propongo un menú estadístico en tres pasos: un entrante de descriptiva para calentar motores, un plato principal de inferencia para poner a prueba nuestras hipótesis, y un postre de regresión lineal múltiple para aprender a predecir el futuro.\n¡Poneos cómodos y que los p-valores os acompañen!"
+  },
+  {
+    "objectID": "posts/estadística-descriptiva/index.html",
+    "href": "posts/estadística-descriptiva/index.html",
+    "title": "Estadística Descriptiva con R",
+    "section": "",
+    "text": "En nuestro día a día con las empresas, las finanzas o cualquier entorno de investigación, nos enfrentamos a enormes cantidades de datos en bruto. Por sí solos, un montón de números en una hoja de cálculo no nos dicen nada.\nAquí es donde entra la Estadística Descriptiva. Su objetivo principal es transformar esos datos brutos en información útil, organizada y fácil de entender. En lugar de mirar una lista interminable de registros, la descriptiva nos permite resumir las características clave de un conjunto de datos mediante tablas, gráficos y medidas numéricas.\nPara este viaje por el blog, vamos a utilizar un conjunto de datos clásico de R llamado trees 03 Crear mi primer blog con Quarto.pdf]. Contiene información real sobre 31 árboles de cerezo negro, midiendo tres variables numéricas continuas: su diámetro (Girth), su altura (Height) y su volumen de madera (Volume).\n\n\n\nBuscan un valor único que represente el “centro” de toda la distribución:\n* Media (\\(\\bar{x}\\)): Es el promedio de toda la vida. Se suman todos los valores y se divide entre el número total de datos (\\(n\\)). Es muy útil, pero “sufre” mucho si hay valores extremos (valores muy grandes o muy pequeños que distorsionan el promedio).\n$$\\bar{x} = \\frac{\\sum_{i=1}^{n} x_i}{n}$$\n\nPara calcular la media del diámetro:\n\n# Cargamos el dataset\ndata(trees)\n\n# Calculamos la media del diámetro (Girth)\nmedia_diametro &lt;- mean(trees$Girth)\n\n# Imprimimos el resultado\ncat(\"La media del diámetro (Girth) es:\", round(media_diametro, 2), \"pulgadas.\")\n\nLa media del diámetro (Girth) es: 13.25 pulgadas.\n\n\n* Mediana (\\(Me\\)): Es el valor que corta los datos exactamente por la mitad. Si ordenamos los árboles de menor a mayor altura, la mediana es el que se queda en el centro. Lo bueno de la mediana es que es “robusta” y no le afectan los valores extremos.\n$$\\tilde{x} = \\left\\{ \\begin{array}{ll} x_{(n+1)/2} & \\text{si } n \\text{ es impar} \\\\ \\frac{x_{n/2} + x_{n/2+1}}{2} & \\text{si } n \\text{ es par} \\end{array} \\right.$$\nEn esta ocasión, vamos a calcular la mediana de la altura.\n\n# Cargamos el dataset\ndata(trees)\n\n# Calculamos la mediana de la altura (Heigt)\nmediana_altura &lt;- median(trees$Height)\n\n# Imprimimos el resultado\ncat(\"La mediana de la altura (Height) es:\", round(mediana_altura, 2), \"pulgadas.\")\n\nLa mediana de la altura (Height) es: 76 pulgadas.\n\n\n\n\n\nDos grupos de datos pueden tener la misma media pero ser totalmente distintos. Por eso necesitamos saber cuánto se alejan los datos de ese centro:\n* Desviación Típica o Estándar (\\(s\\)): Nos dice, de media, cuánto se desvían los datos respecto a su promedio. Si la desviación es pequeña, los árboles miden casi lo mismo; si es grande, hay mucha variedad de tamaños.\n$$s = \\sqrt{\\frac{\\sum_{i=1}^{n}(x_i - \\bar{x})^2}{n-1}}$$\n\n# Cargamos el dataset\ndata(trees)\n\n# Calculamos la desviación típica de la Altura (Height)\nsd_height &lt;- sd(trees$Height)\n\n# Imprimimos el resultado\ncat(\"La desviación típica de la Altura (Height) es:\", round(sd_height, 2), \"pies.\")\n\nLa desviación típica de la Altura (Height) es: 6.37 pies.\n\n\n\n\n\nCuartiles (\\(Q_1, Q_2, Q_3\\)): Dividen la muestra ordenada en cuatro partes iguales (de 25% en 25%).\nPara cada Qk (donde k=1, 2, 3):\n$$P_k = \\frac{k \\cdot (n+1)}{4}$$\n\nPrimer Cuartil (\\(Q_1\\)) deja por debajo al 25% de los datos.\nSegundo Cuartil (\\(Q_2\\)) coincide con la mediana (50%)\nTercer Cuartil (\\(Q_3\\)) deja por debajo al 75%.\nCálculo de los cuartiles:\n\n# Cargar el dataset\ndata(trees)\n\n# Cálculo específico de los cuartiles\ncuartiles_h &lt;- quantile(trees$Height, probs = c(0.25, 0.50, 0.75))\nq1 &lt;- cuartiles_h[\"25%\"]\nq2 &lt;- cuartiles_h[\"50%\"]\nq3 &lt;- cuartiles_h[\"75%\"]\n\n\n# Mostrar resultados\ncat(\"• Q&lt;sub&gt;1&lt;/sub&gt;: \", q1, \" pies.&lt;br&gt;\\n\")\n• Q1: 72 pies.\ncat(\"• Q&lt;sub&gt;2&lt;/sub&gt;/Mediana: \", q2, \" pies. Como podemos comprobar coincide con la mediana.&lt;br&gt;\\n\")\n• Q2/Mediana: 76 pies. Como podemos comprobar coincide con la mediana.\ncat(\"• Q&lt;sub&gt;3&lt;/sub&gt;: \", q3, \" pies.&lt;br&gt;\\n\")\n• Q3: 80 pies."
+  },
+  {
+    "objectID": "posts/estadística-descriptiva/index.html#introducción-a-la-estadística-descriptiva",
+    "href": "posts/estadística-descriptiva/index.html#introducción-a-la-estadística-descriptiva",
+    "title": "Estadística Descriptiva con R",
+    "section": "",
+    "text": "En nuestro día a día con las empresas, las finanzas o cualquier entorno de investigación, nos enfrentamos a enormes cantidades de datos en bruto. Por sí solos, un montón de números en una hoja de cálculo no nos dicen nada.\nAquí es donde entra la Estadística Descriptiva. Su objetivo principal es transformar esos datos brutos en información útil, organizada y fácil de entender. En lugar de mirar una lista interminable de registros, la descriptiva nos permite resumir las características clave de un conjunto de datos mediante tablas, gráficos y medidas numéricas.\nPara este viaje por el blog, vamos a utilizar un conjunto de datos clásico de R llamado trees 03 Crear mi primer blog con Quarto.pdf]. Contiene información real sobre 31 árboles de cerezo negro, midiendo tres variables numéricas continuas: su diámetro (Girth), su altura (Height) y su volumen de madera (Volume).\n\n\n\nBuscan un valor único que represente el “centro” de toda la distribución:\n* Media (\\(\\bar{x}\\)): Es el promedio de toda la vida. Se suman todos los valores y se divide entre el número total de datos (\\(n\\)). Es muy útil, pero “sufre” mucho si hay valores extremos (valores muy grandes o muy pequeños que distorsionan el promedio).\n$$\\bar{x} = \\frac{\\sum_{i=1}^{n} x_i}{n}$$\n\nPara calcular la media del diámetro:\n\n# Cargamos el dataset\ndata(trees)\n\n# Calculamos la media del diámetro (Girth)\nmedia_diametro &lt;- mean(trees$Girth)\n\n# Imprimimos el resultado\ncat(\"La media del diámetro (Girth) es:\", round(media_diametro, 2), \"pulgadas.\")\n\nLa media del diámetro (Girth) es: 13.25 pulgadas.\n\n\n* Mediana (\\(Me\\)): Es el valor que corta los datos exactamente por la mitad. Si ordenamos los árboles de menor a mayor altura, la mediana es el que se queda en el centro. Lo bueno de la mediana es que es “robusta” y no le afectan los valores extremos.\n$$\\tilde{x} = \\left\\{ \\begin{array}{ll} x_{(n+1)/2} & \\text{si } n \\text{ es impar} \\\\ \\frac{x_{n/2} + x_{n/2+1}}{2} & \\text{si } n \\text{ es par} \\end{array} \\right.$$\nEn esta ocasión, vamos a calcular la mediana de la altura.\n\n# Cargamos el dataset\ndata(trees)\n\n# Calculamos la mediana de la altura (Heigt)\nmediana_altura &lt;- median(trees$Height)\n\n# Imprimimos el resultado\ncat(\"La mediana de la altura (Height) es:\", round(mediana_altura, 2), \"pulgadas.\")\n\nLa mediana de la altura (Height) es: 76 pulgadas.\n\n\n\n\n\nDos grupos de datos pueden tener la misma media pero ser totalmente distintos. Por eso necesitamos saber cuánto se alejan los datos de ese centro:\n* Desviación Típica o Estándar (\\(s\\)): Nos dice, de media, cuánto se desvían los datos respecto a su promedio. Si la desviación es pequeña, los árboles miden casi lo mismo; si es grande, hay mucha variedad de tamaños.\n$$s = \\sqrt{\\frac{\\sum_{i=1}^{n}(x_i - \\bar{x})^2}{n-1}}$$\n\n# Cargamos el dataset\ndata(trees)\n\n# Calculamos la desviación típica de la Altura (Height)\nsd_height &lt;- sd(trees$Height)\n\n# Imprimimos el resultado\ncat(\"La desviación típica de la Altura (Height) es:\", round(sd_height, 2), \"pies.\")\n\nLa desviación típica de la Altura (Height) es: 6.37 pies.\n\n\n\n\n\nCuartiles (\\(Q_1, Q_2, Q_3\\)): Dividen la muestra ordenada en cuatro partes iguales (de 25% en 25%).\nPara cada Qk (donde k=1, 2, 3):\n$$P_k = \\frac{k \\cdot (n+1)}{4}$$\n\nPrimer Cuartil (\\(Q_1\\)) deja por debajo al 25% de los datos.\nSegundo Cuartil (\\(Q_2\\)) coincide con la mediana (50%)\nTercer Cuartil (\\(Q_3\\)) deja por debajo al 75%.\nCálculo de los cuartiles:\n\n# Cargar el dataset\ndata(trees)\n\n# Cálculo específico de los cuartiles\ncuartiles_h &lt;- quantile(trees$Height, probs = c(0.25, 0.50, 0.75))\nq1 &lt;- cuartiles_h[\"25%\"]\nq2 &lt;- cuartiles_h[\"50%\"]\nq3 &lt;- cuartiles_h[\"75%\"]\n\n\n# Mostrar resultados\ncat(\"• Q&lt;sub&gt;1&lt;/sub&gt;: \", q1, \" pies.&lt;br&gt;\\n\")\n• Q1: 72 pies.\ncat(\"• Q&lt;sub&gt;2&lt;/sub&gt;/Mediana: \", q2, \" pies. Como podemos comprobar coincide con la mediana.&lt;br&gt;\\n\")\n• Q2/Mediana: 76 pies. Como podemos comprobar coincide con la mediana.\ncat(\"• Q&lt;sub&gt;3&lt;/sub&gt;: \", q3, \" pies.&lt;br&gt;\\n\")\n• Q3: 80 pies."
+  },
+  {
+    "objectID": "posts/estadística-descriptiva/index.html#visualización-gráfica-de-los-datos",
+    "href": "posts/estadística-descriptiva/index.html#visualización-gráfica-de-los-datos",
+    "title": "Estadística Descriptiva con R",
+    "section": "📈 Visualización Gráfica de los Datos",
+    "text": "📈 Visualización Gráfica de los Datos\nA continuación, vemos el impacto real de estas medidas aplicadas sobre nuestros datos de los árboles.\n\npar(mfrow = c(1, 2))\nhist(trees$Height, main = \"Histograma de Altura\", xlab = \"Altura\", col = \"plum\", border = \"white\")\nboxplot(trees$Height, main = \"Boxplot de Altura\", ylab = \"Altura\", col = \"plum\")\n\n\n\n\n\n\n\n\n\nHistograma: Nos permite observar la distribución de la frecuencia. Las barras nos muestran cómo se agrupan las alturas de los árboles; si son más altas o bajas en ciertas zonas, nos da una idea rápida de si la mayoría de los árboles tienen una altura similar o si hay mucha variedad.\nCaja de Bigotes (Boxplot): Es ideal para detectar la variabilidad y valores atípicos. La caja central representa el rango intercuartílico (donde se concentra el 50% central de los datos), la línea gruesa interior es la mediana y los “bigotes” nos marcan el rango de los datos típicos. Si ves puntos aislados fuera de los bigotes, serían árboles con alturas inusualmente extremas."
+  },
+  {
+    "objectID": "posts/regresión-lineal/index.html",
+    "href": "posts/regresión-lineal/index.html",
+    "title": "Regresión lineal",
+    "section": "",
+    "text": "Si la inferencia era probar la sopa, la regresión lineal es nuestro intento de ser adivinos. Imagina que quieres saber cuánto mide un árbol sin tener que treparlo, solo mirando cuánto mide su tronco. Básicamente, le decimos al ordenador: “Oye, aquí tienes unos datos, ¡encuéntrame la línea que mejor une estos puntos!”. Es como intentar unir los puntos de un dibujo infantil, pero con matemáticas serias."
+  },
+  {
+    "objectID": "posts/regresión-lineal/index.html#el-oráculo",
+    "href": "posts/regresión-lineal/index.html#el-oráculo",
+    "title": "Regresión lineal",
+    "section": "",
+    "text": "Si la inferencia era probar la sopa, la regresión lineal es nuestro intento de ser adivinos. Imagina que quieres saber cuánto mide un árbol sin tener que treparlo, solo mirando cuánto mide su tronco. Básicamente, le decimos al ordenador: “Oye, aquí tienes unos datos, ¡encuéntrame la línea que mejor une estos puntos!”. Es como intentar unir los puntos de un dibujo infantil, pero con matemáticas serias."
+  },
+  {
+    "objectID": "posts/regresión-lineal/index.html#marco-teórico",
+    "href": "posts/regresión-lineal/index.html#marco-teórico",
+    "title": "Regresión lineal",
+    "section": "📝 Marco Teórico",
+    "text": "📝 Marco Teórico\n\nEl Modelo: \\[Y = \\beta_0 + \\beta_1 X + \\varepsilon\\]. Intentamos explicar una variable dependiente ($Y$) mediante una independiente ($X$).\nMínimos Cuadrados (MCO): Buscamos minimizar la suma de los cuadrados de los errores: \\[\\sum (Y_i - \\hat{Y}_i)^2\\].\nInterpretación: \\(\\beta_1\\) nos dice cuánto cambia \\(Y\\) por cada unidad que aumenta \\(X\\).\nSupuestos: Linealidad, homocedasticidad (varianza constante), independencia y normalidad de los residuos.\nInferencia: Construimos intervalos de confianza para los coeficientes y contrastes de significación (\\(t\\)-test) para ver si \\(\\beta_1 \\neq 0\\)."
+  },
+  {
+    "objectID": "posts/regresión-lineal/index.html#análisis-práctico-dataset-trees",
+    "href": "posts/regresión-lineal/index.html#análisis-práctico-dataset-trees",
+    "title": "Regresión lineal",
+    "section": "🌳 Análisis práctico: Dataset trees",
+    "text": "🌳 Análisis práctico: Dataset trees\nQueremos predecir el volumen de madera (Volume) a partir de la altura (Height).\n \n\ndata(trees)\n\n# Ajuste del modelo\nmodelo &lt;- lm(Volume ~ Height, data = trees)\n\n# Resumen del modelo\nsummary(modelo)\n\n\nCall:\nlm(formula = Volume ~ Height, data = trees)\n\nResiduals:\n    Min      1Q  Median      3Q     Max \n-21.274  -9.894  -2.894  12.068  29.852 \n\nCoefficients:\n            Estimate Std. Error t value Pr(&gt;|t|)    \n(Intercept) -87.1236    29.2731  -2.976 0.005835 ** \nHeight        1.5433     0.3839   4.021 0.000378 ***\n---\nSignif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1\n\nResidual standard error: 13.4 on 29 degrees of freedom\nMultiple R-squared:  0.3579,    Adjusted R-squared:  0.3358 \nF-statistic: 16.16 on 1 and 29 DF,  p-value: 0.0003784\n\n\n\nInterpretación de Resultados\n\nEstimación: Nuestro modelo es \\[\\widehat{Volume} = -87.12 + 1.54 \\cdot Height\\].\n\nPor cada pie que aumenta la altura, el volumen aumenta de media 1.54 unidades.\n\nContraste de significación: El \\(p\\)-valor asociado a Height es 4^{-4}. Como es menor a 0.05, el efecto de la altura sobre el volumen es estadísticamente significativo.\nIntervalo de Confianza:\n\n### Diagnóstico del Modelo\n#| echo: true\n#| warning: false\nconfint(modelo, \"Height\", level = 0.95)\n\n          2.5 %   97.5 %\nHeight 0.758249 2.328451\n\n# Para comprobar los supuestos, veamos cómo se ajusta:\nplot(modelo, which = 1) # Gráfico de residuos vs ajustados\n\n\n\n\n\n\n\n\n\nComo no conocemos la población completa, el intervalo nos da el margen de error. Podemos decir con un 95% de confianza que el efecto real de la altura sobre el volumen está entre 0.76 y 2.33 unidades por pie.\nSi los puntos están repartidos al azar sin formar patrones claros (como una “nube” sin forma), ¡nuestros supuestos de homocedasticidad e independencia se cumplen!\n¡Ahora sí que hemos cerrado el círculo: de la muestra a la predicción!"
+  }
+]

@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Mi Blog de Estadística"
+  navbar:
+    right:
+      - href: about.qmd
+        text: Sobre mí
+      - href: index.qmd
+        text: Inicio 
+      - href: cv.qmd
+        text: CV
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+
+editor: visual
+
